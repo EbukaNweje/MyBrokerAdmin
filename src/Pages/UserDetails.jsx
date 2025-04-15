@@ -15,7 +15,7 @@ const UserDetails = () => {
         msg: "",
     });
 
-    console.log(emaildatas);
+    // console.log(emaildatas);
 
     const userId = id
 
